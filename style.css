@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+  } 
+  
+  body{
+    /* background-color: bisque; */
+    margin: 5rem;
+    
+  }
+  .main-container{
+    background-image: url("images/bg-stars.svg");
+    background-color: hsl(237, 18%, 59%);
+  
+  }
+  
+  .inside-cards {
+    /* border-radius: 50%; */
+    width: 2rem;
+    padding: 2rem;
+    margin: 2rem;
+  }
